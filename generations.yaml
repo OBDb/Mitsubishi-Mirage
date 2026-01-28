@@ -1,0 +1,39 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mitsubishi_Mirage"
+
+generations:
+  - name: "First Generation"
+    start_year: 1978
+    end_year: 1983
+    description: "Mitsubishi launched the Mirage as a front-wheel drive three-door hatchback in March 1978, as a response to the 1973 oil crisis. A five-door hatchback on a longer wheelbase arrived in September. The first generation featured four-wheel independent suspension, rack and pinion steering, plus front disc brakes. Power initially came from 1,244 and 1410 cc iterations of the Orion engine. A facelift arrived in February 1982 with flusher fitting headlamps and updated styling. In October 1982, a four-door sedan variant was introduced in Japan under the names Mirage Saloon and Lancer Fiore. Japanese manufacture ended in October 1983."
+    platform: "A-series"
+
+  - name: "Second Generation"
+    start_year: 1983
+    end_year: 1988
+    description: "Mitsubishi launched the second generation Mirage to Japan in 1983, again splitting the range into Mirage (three- and five-door hatchback, plus four-door sedan) and Lancer Fiore (four-door sedan) models. A station wagon version of the Mirage was added in 1985, with a four-wheel drive wagon available from fall 1986. Uprated engines were deployed including 1.3- and 1.5-liter Orion gasoline engines replacing previous units, plus 1.6 and 1.8-liter Sirius gasoline powerplants and for the first time a 1.8-liter Sirius diesel. The car received a very mild facelift in early 1986. The second generation Mirage hatchback was replaced in October 1987; the sedans were replaced in January 1988. The Wagon and Van versions were kept in production with some minor updates until 1991."
+    platform: "C-series"
+
+  - name: "Third Generation"
+    start_year: 1987
+    end_year: 1991
+    description: "Mitsubishi introduced the more rounded, third-generation Mirage to Japan in October 1987. The basic model was a three-door hatchback with upright tailgate and large glasshouse. The sedan, released to Japan in January 1988 was stylistically distinct with almost vertical rear glass, influenced by the larger Galant. The range was complemented by a five-door liftback in June 1988. Engines available were 1.3- and 1.5-liter Orion gasoline inline-fours and 1.8-liter Saturn gasoline inline-four, plus a 1.8-liter Sirius diesel carrying over. Four-wheel-drive versions were also available in Japan. The third generation received a minor facelift in September 1989, with late models receiving the same modernized engines as were seen in the subsequent generation."
+    platform: "C-series (CB)"
+
+  - name: "Fourth Generation"
+    start_year: 1991
+    end_year: 1995
+    description: "In October 1991, the fourth generation Mirage made its debut for the Japanese market alongside the related Lancer. Departing from the previous series, the new Mirage adopted a much rounder body shape. The Japanese Mirage lineup comprised the three-door hatchback (now called Mirage Cyborg) and sedan (now with a six-window glasshouse), plus a new coupé body type suffixed Asti. Lancer variants sold in Japan offered unique body variants—a four-windowed sedan and, from May 1992, a station wagon named Mitsubishi Libero. A turbocharged model named Libero GT was also available. The US specification with longer bumpers has drag coefficient of 0.33 (coupe) and 0.32 (sedan) respectively."
+    platform: "C-series (CC)"
+
+  - name: "Fifth Generation"
+    start_year: 1995
+    end_year: 2003
+    description: "The release of the fifth generation Mirage to Japan in October 1995 introduced a rationalized lineup as a result of the fragile post-bubble economy in Japan. Three body types were issued: first, the three-door hatchback and sedan, then in December 1995, the two-door coupé (Asti). While the sedan grew slightly in size, the coupé shrunk modestly. It was bumped from the subcompact class to compact in the United States. A minor facelift arrived in 1997 with new grille and reshaped inner-portions of the headlamps. Although a new, substantially larger and more expensive generation of Lancer sedan arrived in 2000, many export markets retained the Mirage-derived model up until 2003 when Japanese manufacture concluded. Production dates varied by region: 1995–2003 (Japan), 1997–2002 (Indonesia), 1998–2012 (India), 2003–2019 (China)."
+    platform: "CE-series"
+
+  - name: "Sixth Generation"
+    start_year: 2012
+    end_year: null
+    description: "Mitsubishi resurrected the Mirage name internationally for a new sixth generation model in 2012. The current Mirage model is a subcompact hatchback and sedan that replaces the Mitsubishi Colt sold between 2002 and 2012. The sixth generation shares its platform with the Nissan March/Micra and is manufactured at Mitsubishi's plant in Laem Chabang, Thailand. The Mirage competes in the subcompact segment with fuel efficiency as a primary selling point. The sedan version was added to the lineup in 2013. A facelift was applied in 2017 with updated front and rear styling, new interior features, and improved safety equipment. The model continues in production as of 2024."
+    platform: "B-series"
